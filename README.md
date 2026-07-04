@@ -30,7 +30,7 @@ An intelligent company research tool that combines website crawling, search engi
 ### Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/harshkushwaha7x/CompanyIQ-AI.git
 cd companyiq-ai
 
 npm install
@@ -147,7 +147,3 @@ The app can be deployed on any platform that supports Next.js:
 | Deployment and Documentation | 5 | Done |
 | Discord Integration (Bonus) | 10 | Done |
 | Additional Enhancements (Bonus) | 10 | Done |
-
-## License
-
-Built for Relu Consultancy AI and Automation Developer Hiring Challenge.
