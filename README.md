@@ -31,6 +31,7 @@ An intelligent company research tool that combines website crawling, search engi
 
 ```bash
 git clone https://github.com/harshkushwaha7x/CompanyIQ-AI.git
+
 cd companyiq-ai
 
 npm install
