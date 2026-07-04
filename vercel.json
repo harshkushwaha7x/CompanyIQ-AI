@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "src/app/api/research/route.js": {
+      "maxDuration": 60
+    }
+  }
+}
